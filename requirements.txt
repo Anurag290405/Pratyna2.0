@@ -1,0 +1,7 @@
+streamlit
+transformers
+sentence-transformers
+torch
+scikit-learn
+pandas
+ml-dtypes
